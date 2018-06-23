@@ -1,0 +1,12 @@
+{
+  "name": "twitterquotebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tramanedhall/twitterquotebot.git",
+  "author": "Tramane Hall <tramanedhall@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0",
+    "twit": "^2.2.10"
+  }
+}
