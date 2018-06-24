@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
+  "author": "Tramane Hall",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "express": "^4.16.3",
