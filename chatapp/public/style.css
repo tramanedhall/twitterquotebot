@@ -1,0 +1,52 @@
+html, body {
+    text-align: center;
+    font-family: 'Oswald', 'Avenir Next', 'Helvetica', 'Arial', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .main-container{
+      width:100%;
+      background:lightcyan;
+      height: auto;
+      margin: 0 auto;
+      border: 5px double green;
+  }
+
+  
+  form {
+      margin: 0 auto;
+      padding-bottom: 2%;
+  }
+  ul{
+      width: 600px;
+      padding: 0px;
+  }
+  li {
+      display:flex;
+      align-items:center;
+      flex-wrap: wrap;
+      list-style: none;
+      margin: 15px auto;
+      padding-left: 15px;
+      height: auto;
+      width: 30vw;
+      border-radius: 20px;
+      background: #a2e3fd;
+  }
+  
+  li:nth-child(even) { 
+      background: #eee; 
+      display:flex;
+      justify-content: flex-start;
+      padding-right: 0px;
+  }
+
+.text-item {
+    display:flex;
+    max-width: 350px;
+    overflow-wrap:break-word;
+}
+ul, form {
+      font-family: 'Shrikhand', cursive;
+  }
